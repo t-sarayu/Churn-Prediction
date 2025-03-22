@@ -30,4 +30,7 @@ This project analyzes customer churn using SQL Server and Power BI. The goal is 
 - Customers with monthly contracts churn more than yearly subscribers.
 - Payment method and service usage influence churn probability.
 
+Power BI - [PDF](https://github.com/t-sarayu/Churn-Prediction/blob/main/PowerBI_dashboard.pdf)
+![screenshot](Churn-Prediction/churn_powerbi_snip.png)
+
 
