@@ -6,7 +6,7 @@ This project analyzes customer churn using SQL Server and Power BI. The goal is 
 ## Tech Stack
 - **SQL Server** (ETL and Data Processing)
 - **Power BI** (Data Visualization)
-- **Python, ScikitLearn** (For ML modeling)
+- **Python** (ScikitLearn - For ML modeling)
 
 ## Project Workflow
 1. **Data Extraction & Loading**
